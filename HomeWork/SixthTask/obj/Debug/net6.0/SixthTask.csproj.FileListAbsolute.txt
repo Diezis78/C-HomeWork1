@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\bin\Debug\net6.0\SixthTask.exe
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\bin\Debug\net6.0\SixthTask.deps.json
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\bin\Debug\net6.0\SixthTask.runtimeconfig.json
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\bin\Debug\net6.0\SixthTask.dll
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\bin\Debug\net6.0\SixthTask.pdb
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\obj\Debug\net6.0\SixthTask.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\obj\Debug\net6.0\SixthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\obj\Debug\net6.0\SixthTask.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\obj\Debug\net6.0\SixthTask.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\obj\Debug\net6.0\SixthTask.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\obj\Debug\net6.0\SixthTask.dll
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\obj\Debug\net6.0\refint\SixthTask.dll
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\obj\Debug\net6.0\SixthTask.pdb
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\obj\Debug\net6.0\SixthTask.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\SixthTask\obj\Debug\net6.0\ref\SixthTask.dll
