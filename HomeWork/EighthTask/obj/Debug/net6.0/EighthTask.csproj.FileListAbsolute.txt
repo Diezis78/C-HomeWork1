@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\bin\Debug\net6.0\EighthTask.exe
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\bin\Debug\net6.0\EighthTask.deps.json
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\bin\Debug\net6.0\EighthTask.runtimeconfig.json
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\bin\Debug\net6.0\EighthTask.dll
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\bin\Debug\net6.0\EighthTask.pdb
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\obj\Debug\net6.0\EighthTask.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\obj\Debug\net6.0\EighthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\obj\Debug\net6.0\EighthTask.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\obj\Debug\net6.0\EighthTask.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\obj\Debug\net6.0\EighthTask.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\obj\Debug\net6.0\EighthTask.dll
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\obj\Debug\net6.0\refint\EighthTask.dll
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\obj\Debug\net6.0\EighthTask.pdb
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\obj\Debug\net6.0\EighthTask.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\GB\C#\HomeWork1\HomeWork\EighthTask\obj\Debug\net6.0\ref\EighthTask.dll
